@@ -35,7 +35,7 @@ You can reference [Contributing](docs/CONTRIBUTING.md) document and submit GitHu
 to provide feedback and suggest improvements for TuGraph.
 
 ## Contact
-You can contact with us directly through TuGraph Discord and WeChat group provided below.
+You can contact with us directly through TuGraph Discord and DingTalk provided below.
 
 - Discord: https://discord.gg/KBCFbNFj
 
