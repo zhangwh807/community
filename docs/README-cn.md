@@ -29,10 +29,9 @@ TuGraph 是由蚂蚁集团图计算团队发起的一系列开源图计算项目
 您可以参考[贡献文档](CONTRIBUTING-cn.md)，提交 GitHub Issue/PR 提供反馈建议对 TuGraph 继续改进。
 
 ## 联系
-您可以通过下面提供的 TuGraph 微信群或 Discord 与我们直接联系。
+您可以通过下面提供的 TuGraph 钉钉群或 Discord 与我们直接联系。
 
-- 微信：
-![](../assets/contacts-cn.png)
+![](../assets/contact-dingding_zh.JPG)
 
 - Discord：https://discord.gg/KBCFbNFj
 

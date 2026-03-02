@@ -38,8 +38,9 @@ to provide feedback and suggest improvements for TuGraph.
 You can contact with us directly through TuGraph Discord and WeChat group provided below.
 
 - Discord: https://discord.gg/KBCFbNFj
-- WeChat:
-![](assets/contacts.png)
+
+![](assets/contact-dingding_en.png)
+
 
 
 ## Meeting
